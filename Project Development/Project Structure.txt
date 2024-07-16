@@ -1,0 +1,46 @@
+Working on programming project
+
+1. Identify the problem
+    - Not able to keep track of work application
+    - Dont know what item do I have, and keep on spending to buy the same item
+
+2. Have a plan
+    - what tech stack to use
+    - what database to use
+    - what backend gonna look likes
+    - what fronend gonna look likes
+    - general components that gonna use
+
+3. Directory and folder structure
+    - depends on framework
+    Tips:
+    - be consistent (eg. name-name, nameName, name_name) | plural keeps on plural
+    - dont jammed up root directory (eg. design-files, apps(backend, frontend, libs(helper, types)), github-stuffs)
+
+4. Use version control
+    Steps:
+    - Initialize git repo
+    - Add different files
+    - Write meaningful commit message
+
+5. Modularize and componentize the project
+    - Dont write single file of 1000 lines code
+    - Modularize its
+
+6. Documentation
+    - Installation or troubleshooting guide (Document any issue found when using in any different env)
+    - Briefly tell user: How do they run the code, what do they need(keys, special access, contact admin etc)
+    - Documents of all issue and solutions
+
+7. Testing
+    - To have proper full software development
+    - Unit test, intergration test, end2end test
+
+8. Dependency management
+    - Secure, updated, maintained
+
+9. Continuous Integration & Continuous Deployment
+    - Deployed in environment
+    - Help other to run the application easily
+    - eg. Deployed on container, website just one click away with url, installation folder bundled up
+    - Deployed and how secure it is
