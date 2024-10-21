@@ -1,0 +1,11 @@
+Initializing git in local folder for first time.
+1. create a new repositories in Github
+2. cd into the folder
+3. git init | (initialize local repositories in the folder)
+4. git add . | (add all files to the newly created local repository)
+5. git commit -m "something something" | (committing the changes in the local repository with flag -m for message of "something something")
+6. git remote add origin "link to the github repository" | (connecting the github) * origin(convention) is like variable name for the link, can be anything else
+7. git pull origin main | (to sync the local repository with github repository)
+8. git push -u origin main | (upload the commit in staging area of local device(commited files) to github repository
+
+# tested work fine
