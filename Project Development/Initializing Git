@@ -9,3 +9,6 @@ Initializing git in local folder for first time.
 8. git push -u origin main | (upload the commit in staging area of local device(commited files) to github repository
 
 # tested work fine
+
+rm -rf .git -> to clear git init
+git reset -> to clear git add files
