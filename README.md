@@ -1,6 +1,6 @@
 This repository is compiled notes on how ones might be able to start the learning process of programming or into IT industry (OPINION).
 
-Computer Science Path (as far as I know):
+Computer Science Path (as far as I know, find the one that suits yourself):
 1. Fullstack developer (Frontend, Backend, Devops) / Software Engineering
 2. Data Science
 3. Machine Learning Engineer
